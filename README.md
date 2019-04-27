@@ -4,6 +4,6 @@
 >The variety of concepts learned include Generics, Iterator, Composite Pattern, Vistor Pattern, State Pattern, and Observer Pattern.
 >Eiffel was chosen by the department for its ease of writing these contracts using require and ensure statements to check preconditions and postconditions respectively.
 >
->Lab 4 was used as a base for the Project and was modified to accomodate new features and user commands.
+>Lab 4 was used as a base for the Project and was modified to accomodate new features and user commands, so it is not present.
 >
 >'Lab5again' is the initial code designed to meet the lab requirements, however after compiling and passing the instructors tests, it failed to submit so a fix was made and submitted under 'Lab5'.
